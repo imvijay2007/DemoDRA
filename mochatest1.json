@@ -1,10 +1,10 @@
 {
   "stats": {
-    "suites": 1,
-    "tests": 4,
+    "suites": 2,
+    "tests": 7,
     "passes": 4,
     "pending": 0,
-    "failures": 0,
+    "failures": 3,
     "start": "2016-06-30T16:26:31.854Z",
     "end": "2016-06-30T16:26:32.472Z",
     "duration": 618
@@ -37,10 +37,53 @@
       "duration": 175,
       "currentRetry": 0,
       "err": {}
+    },
+    {
+      "title": "with incomplete zip code",
+      "fullTitle": "Get Weather1 with incomplete zip code",
+      "duration": 175,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "with invalid zip code",
+      "fullTitle": "Get Weather1 with incomplete zip code",
+      "duration": 175,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "with incomplete zip code",
+      "fullTitle": "Get Weather1 with incomplete zip code",
+      "duration": 175,
+      "currentRetry": 0,
+      "err": {}
     }
   ],
   "pending": [],
-  "failures": [],
+  "failures": [
+  {
+      "title": "with incomplete zip code",
+      "fullTitle": "Get Weather with incomplete zip code",
+      "duration": 175,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "with incomplete zip code",
+      "fullTitle": "Get Weather1 with incomplete zip code",
+      "duration": 175,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "with invalid zip code",
+      "fullTitle": "Get Weather1 with incomplete zip code",
+      "duration": 175,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
   "passes": [
     {
       "title": "with valid zip code",
@@ -65,7 +108,7 @@
     },
     {
       "title": "with incomplete zip code",
-      "fullTitle": "Get Weather with incomplete zip code",
+      "fullTitle": "Get Weather1 with incomplete zip code",
       "duration": 175,
       "currentRetry": 0,
       "err": {}
