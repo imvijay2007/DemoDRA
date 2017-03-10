@@ -47,7 +47,7 @@
     },
     {
       "title": "with invalid zip code",
-      "fullTitle": "Get Weather1 with incomplete zip code",
+      "fullTitle": "Get Weather1 with invalid zip code",
       "duration": 175,
       "currentRetry": 0,
       "err": {}
@@ -78,7 +78,7 @@
     },
     {
       "title": "with invalid zip code",
-      "fullTitle": "Get Weather1 with incomplete zip code",
+      "fullTitle": "Get Weather1 with invalid zip code",
       "duration": 175,
       "currentRetry": 0,
       "err": {}
